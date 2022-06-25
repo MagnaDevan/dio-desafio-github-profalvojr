@@ -1,2 +1,2 @@
-# dio-desafio-github-profalvojr
-Desafio de Projeto sobre Git/GitHub - Dio
+# Repositório de Desafio de Projeto sobre Git/GitHub da Dio
+Desafio de Projeto sobre Git/GitHub 
