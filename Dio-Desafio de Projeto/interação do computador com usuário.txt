@@ -1,0 +1,17 @@
+Desafios de Projetos - Dio
+
+Criando interação da maquina com o usuario atraz da linguagem em Python.
+
+ Iniciando os comandos básico em Python
+
+1. Lendo o nome de usuário pelo teclado com mensagem de boas vindas.
+
+Código:
+ Computador leia o nome de uma pessoa e mostre uma mensagem de Boas Vindas.
+
+   nome = input('Qual o seu nome: ') 
+   print(f'Olá! prazer em te conhecer, {nome}!')
+
+
+
+Python 3.10
